@@ -552,6 +552,7 @@ class ComposerStaticInit007848a8730928f864f824aa6aef877e
         'App\\Http\\Controllers\\PriceController' => __DIR__ . '/../..' . '/app/Http/Controllers/PriceController.php',
         'App\\Http\\Controllers\\PushNotificationController' => __DIR__ . '/../..' . '/app/Http/Controllers/PushNotificationController.php',
         'App\\Http\\Controllers\\SettingPriceController' => __DIR__ . '/../..' . '/app/Http/Controllers/SettingPriceController.php',
+        'App\\Http\\Controllers\\TypeVehicleController' => __DIR__ . '/../..' . '/app/Http/Controllers/TypeVehicleController.php',
         'App\\Http\\Controllers\\UserController' => __DIR__ . '/../..' . '/app/Http/Controllers/UserController.php',
         'App\\Http\\Controllers\\VirtualWalletDriverController' => __DIR__ . '/../..' . '/app/Http/Controllers/VirtualWalletDriverController.php',
         'App\\Http\\Kernel' => __DIR__ . '/../..' . '/app/Http/Kernel.php',

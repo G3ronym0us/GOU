@@ -29,6 +29,7 @@ return array(
     'App\\Http\\Controllers\\PriceController' => $baseDir . '/app/Http/Controllers/PriceController.php',
     'App\\Http\\Controllers\\PushNotificationController' => $baseDir . '/app/Http/Controllers/PushNotificationController.php',
     'App\\Http\\Controllers\\SettingPriceController' => $baseDir . '/app/Http/Controllers/SettingPriceController.php',
+    'App\\Http\\Controllers\\TypeVehicleController' => $baseDir . '/app/Http/Controllers/TypeVehicleController.php',
     'App\\Http\\Controllers\\UserController' => $baseDir . '/app/Http/Controllers/UserController.php',
     'App\\Http\\Controllers\\VirtualWalletDriverController' => $baseDir . '/app/Http/Controllers/VirtualWalletDriverController.php',
     'App\\Http\\Kernel' => $baseDir . '/app/Http/Kernel.php',
