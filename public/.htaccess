@@ -20,8 +20,8 @@
     RewriteRule ^ index.php [L]
 </IfModule>
 
-<Directory /var/www/html/>
-    Options Indexes FollowSymLinks
-    AllowOverride All
-    Require all granted
-</Directory>
+#<Directory /var/www/html/>
+#    Options Indexes FollowSymLinks
+#    AllowOverride All
+#    Require all granted
+#</Directory>
